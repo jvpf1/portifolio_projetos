@@ -21,7 +21,9 @@ section, summary, time, mark, audio, video {
   border: 0;
   font-size: 100%;
   font: inherit;
-  vertical-align: baseline; }
+  vertical-align: baseline;
+  background-color: #3d4449;
+  color:aliceblue; }
 
 
 
@@ -120,10 +122,10 @@ a {
     border-bottom-color: #f56a6a;
     color: #f56a6a !important; }
     a:hover strong {
-      color: inherit; }
+      color: whitesmoke; }
 
 strong, b {
-  color: #3d4449;
+  color: antiquewhite;
   font-weight: 600; }
 
 em, i {
@@ -133,7 +135,7 @@ p {
   margin: 0 0 0.8em 0; }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #3d4449;
+  color:antiquewhite;
   font-family: "Roboto Slab", serif;
   font-weight: 700;
   line-height: 1.5;
